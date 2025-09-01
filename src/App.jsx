@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 // =============================================
 // FILE: src/data/menuData.js
-// In a real project, you'd export this data.
+// In a real project, you'd export this 
 // export const menuData = { ... };
 // =============================================
 const menuData = {
