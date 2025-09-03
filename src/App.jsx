@@ -7,7 +7,7 @@ import React, { useState, useEffect } from 'react';
 // =============================================
 const menuData = {
   cakes: [
-    { id: 1, name: 'Chocolate Truffle Cake', description: 'Rich chocolate sponge with a smooth truffle icing.', price: '₹800', image: '/images/choclate cake.webp' },
+    { id: 1, name: 'Chocolate Truffle Cake', description: 'Rich chocolate sponge with a smooth truffle icing.', price: '₹800', image:['/images/truffle 2.webp']},
     { id: 2, name: 'Red Velvet Cake', description: 'Classic red velvet with a tangy cream cheese frosting.', price: '₹950', image: '/images/red velvet.jpg' },
     { id: 3, name: 'Pineapple Paradise', description: 'Light vanilla sponge with fresh pineapple chunks.', price: '₹750', image: '/images/pineapple cake.jpg' },
     { id: 4, name: 'Black Forest Cake', description: 'Layers of chocolate, whipped cream, and cherries.', price: '₹850', image: '/images/black forest cake.JPG' },
